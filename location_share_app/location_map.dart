@@ -153,6 +153,7 @@ class _LocalMapState extends State<LocationMap> {
                 urlTemplate: 'https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png',
                 subdomains: ['a', 'b', 'c'],
               ),
+              //표시 화면에 지도 타일 표시하고, z는 줌 레벨, xy는 위치 좌표
               MarkerLayer(
                 markers: [
                   Marker(
@@ -241,3 +242,4 @@ class _LocalMapState extends State<LocationMap> {
     );
   }
 }
+
