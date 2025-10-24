@@ -1,8 +1,8 @@
-#location_share_app
+# location_share_app
 ---
 flutter, dart 개발 안드로이드 앱
 
-##프로젝트 소개
+## 프로젝트 소개
 ---
 주차 위치를 공유할 수 있는 앱입니다
 
