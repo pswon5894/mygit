@@ -10,6 +10,8 @@
 
 앱 자체에서 위도 경도를 입력해서 찾아볼수도 있음
 
+google play store 앱 출시 링크 =
+
 <img src="https://github.com/pswon5894/mygit/blob/main/location_share_app/%EC%95%B1%20%EC%82%AC%EC%9A%A9%20%ED%99%94%EB%A9%B4.jpg" width="50%" height="50%"/>
 
 ---
